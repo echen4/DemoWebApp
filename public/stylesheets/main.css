@@ -3,8 +3,9 @@ body {
 }
 
 h1 {
-  color: orange;
+  color: #fabbbb;
   text-align: center;
+  text-decoration: underline;
 }
 
 p {
